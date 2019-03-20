@@ -21,6 +21,7 @@ Currently known supported models:
 - TX-32AS520E
 - TX-49DX650B
 - TX-50DX700B
+- TX-50DX730E
 - TX-55CX700E
 - TX-55EXW584
 - TX-65EXW784
